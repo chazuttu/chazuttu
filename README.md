@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h1 align="center">Hi 👋, I'm Utkarsh(IAS Aspirant)</h1>
+<h3 align="center">A Passionate Android App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chazuttu&label=Profile%20views&color=0e75b6&style=flat" alt="chazuttu" /> </p>
 
@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh?logo=twitter&style=for-the-badge" alt="utkarsh" /></a> </p>
 
 - 🔭 I’m currently working on **Android Projects & Open Source Contributions**
+
+- 🌱 I’m currently learning **Business Analytics,Models,Entrepreneurship skills & Digital Media**
 
 - 👯 I’m looking to collaborate on **Android & ML projects**
 
