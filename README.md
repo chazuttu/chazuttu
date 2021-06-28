@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Android & ML projects**
 
-- 📫 How to reach me **Linkedin-https://www.linkedin.com/in/utkarsh-kumar-a8181518b/ & Twitter-https://twitter.com/Utkarsh06418450**
+- 📫 How to reach me **Linkedin-https://www.linkedin.com/in/utkarsh-kumar-a8181518b/ & Twitter-https://twitter.com/Utkarsh06418450   & Hackerrank-https://www.hackerrank.com/Chazuttu**
 
 - ⚡ Fun fact **I like to cook and eat.**
 
