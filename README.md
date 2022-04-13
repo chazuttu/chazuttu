@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh?logo=twitter&style=for-the-badge" alt="utkarsh" /></a> </p>
 
-- 🔭 I’m currently working on **Android Projects & Open Source Contributions**
+- 🔭 I’m currently working on **Android Projects, Backend Projects & Open Source Contributions**
 
 - 🌱 I’m currently learning **Business Analytics,Models,Entrepreneurship skills & Digital Media**
 
