@@ -11,9 +11,6 @@
 
 - 🌱 I’m currently learning **Business Analytics,Models,Entrepreneurship skills & Digital Media**
 
-
-- 📫 How to reach me **Linkedin-https://www.linkedin.com/in/utkarsh-kumar-a8181518b/ & Twitter-https://twitter.com/Utkarsh06418450   & Hackerrank-https://www.hackerrank.com/Chazuttu & Codechef-https://www.codechef.com/users/utkarsh987432 **
-
 - ⚡ Fun fact **I like to cook and eat.**
 
 <h3 align="left">Connect with me:</h3>
