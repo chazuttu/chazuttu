@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Backend Projects & Open Source Contributions**
 
-- 🌱 I’m currently learning **Business Analytics,Models,Entrepreneurship skills & Digital Media**
+- 🌱 I’m currently diving into **Business Analytics,Models,Entrepreneurship skills & Digital Media**
 
 - ⚡ Fun fact **I like to cook and eat.**
 
