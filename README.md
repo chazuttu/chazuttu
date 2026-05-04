@@ -8,7 +8,7 @@
 
 ### 👋 Hey, I'm Utkarsh
 
-Software Engineer from Ranchi 🇮🇳 · Google Summer of Code Mentor · Currently building products that solve real problems.
+Software Engineer · Google Summer of Code Mentor · Currently building products that solve real problems.
 
 > *"Build things people actually use."*
 
@@ -74,7 +74,7 @@ Software Engineer from Ranchi 🇮🇳 · Google Summer of Code Mentor · Curren
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-kumar-a8181518b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-a8181518b/)
 [![ResumeReflect](https://img.shields.io/badge/ResumeReflect-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)](https://resumereflect.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chazuttu)
 
